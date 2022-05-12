@@ -29,7 +29,6 @@
 ---
 
 ## 🎓 Formação Acadêmica
-Para o desenvolvimento deste portfólio as linguagens abaixo foram utilizadas:
 
 - **Sistemas de Informação**
 - **Administração de empresas**
